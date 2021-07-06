@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <com.example.jlshopping.view.NoScrollViewPager
+        android:id="@+id/vp_tab"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"/>
+
+    <RadioGroup
+        android:id="@+id/rg_tab"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/top_line"
+        android:orientation="horizontal"
+        android:paddingBottom="6dp"
+        android:paddingTop="6dp">
+
+        <RadioButton
+            android:id="@+id/rb_homepage"
+            style="@style/Bottom_Tab_Style"
+            android:drawableTop="@drawable/selector_home"
+            android:text="首页"/>
+
+        <RadioButton
+            android:id="@+id/rb_category"
+            style="@style/Bottom_Tab_Style"
+            android:drawableTop="@drawable/selector_category"
+            android:text="分类"/>
+
+        <RadioButton
+            android:id="@+id/rb_shop_cart"
+            style="@style/Bottom_Tab_Style"
+            android:drawableTop="@drawable/selector_shopcar"
+            android:text="购物车"/>
+
+        <RadioButton
+            android:id="@+id/rb_user"
+            style="@style/Bottom_Tab_Style"
+            android:drawableTop="@drawable/selector_user"
+            android:text="我的"/>
+    </RadioGroup>
+</LinearLayout>

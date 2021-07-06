@@ -1,0 +1,14 @@
+[
+{"good_id":"10001","good_icon":0,"good_name":"YAA/现货一次性防护口罩 保暖防尘防风防霾三层口罩","good_price":"35"},
+{"good_id":"10002","good_icon":1,"good_name":"【陌莎】84消毒液 99.99%有效杀菌","good_price":"21.9"},
+{"good_id":"10003","good_icon":1,"good_name":"【梦菲】84消毒液","good_price":"19.9"},
+{"good_id":"10004","good_icon":2,"good_name":"民用达医用效果口罩 普通口罩➕普通医用芯片","good_price":"9.9"},
+{"good_id":"10005","good_icon":2,"good_name":"民用达医用效果口罩 普通口罩➕医用芯片","good_price":"19.9"},
+{"good_id":"10006","good_icon":3,"good_name":"【清风】抽纸原木纯品金装130抽3层4包单提","good_price":"11.9"},
+{"good_id":"10007","good_icon":4,"good_name":"【欧莱雅】男士专用控油祛痘洗面奶洁面乳洗","good_price":"32.9"},
+{"good_id":"10008","good_icon":5,"good_name":"【英语四级】4级考试历年真题试卷套卷","good_price":"19.8"},
+{"good_id":"10009","good_icon":5,"good_name":"【英语六级】6级考试历年真题试卷套卷","good_price":"29.8"},
+{"good_id":"10010","good_icon":6,"good_name":"【馨动】香氛学生免洗洗手液75%酒精小瓶便携随身装抑菌洗手凝胶","good_price":"39.8"},
+{"good_id":"10011","good_icon":7,"good_name":"【有视频解析】备考2020年9月计算机二级ms office题库教材书","good_price":"24.8"},
+{"good_id":"10012","good_icon":7,"good_name":"备考2020年9月计算机二级c++题库教材书","good_price":"19.8"},
+]

@@ -1,0 +1,12 @@
+[
+{"goods_class_icon":0,"goods_class_name":"美妆护肤"},
+{"goods_class_icon":1,"goods_class_name":"宿舍生活"},
+{"goods_class_icon":2,"goods_class_name":"吃货福利"},
+{"goods_class_icon":3,"goods_class_name":"数码3C"},
+{"goods_class_icon":4,"goods_class_name":"学习资料"},
+{"goods_class_icon":5,"goods_class_name":"12点秒杀"},
+{"goods_class_icon":6,"goods_class_name":"平价好物"},
+{"goods_class_icon":7,"goods_class_name":"品牌专区"},
+{"goods_class_icon":8,"goods_class_name":"PU豆兑换"},
+{"goods_class_icon":9,"goods_class_name":"PU豆签到"}
+]
